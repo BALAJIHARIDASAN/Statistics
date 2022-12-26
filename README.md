@@ -2,10 +2,3 @@
 
 
 
-Topics :
-
-1. descriptive statistics
-
-2. inferentail statistics
-
-3. Hypothesis Testing
